@@ -1,6 +1,6 @@
 # auto_scrall
 
-A new Flutter application.
+A simple flutter application with auto scrall.
 
 ## Getting Started
 
