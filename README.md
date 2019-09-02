@@ -1,6 +1,6 @@
-# auto_scrall
+# auto_scroll
 
-A simple flutter application with auto scrall.
+A simple flutter application with auto scroll.
 
 ## Getting Started
 
